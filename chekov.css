@@ -48,3 +48,28 @@
 .speech {
     color: #415a5d;
 }
+/* Table styles */
+.table-container {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #3c0707;
+}
+
+th {
+    background-color: #e2b5b5;
+}
+
+/* Alternating row colors */
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

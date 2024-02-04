@@ -1,0 +1,50 @@
+.header{
+    color: darkorange;
+}
+
+.play-author{
+    color: chartreuse;
+}
+
+/* Speech class styles */
+.speech {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.1em;
+    color: black;
+}
+
+/* Direction class styles */
+.direction {
+    font-family: 'Times New Roman', serif;
+    font-size: 1em;
+    color: black;
+    background-color: rgb(139, 192, 196);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect on Direction class */
+.direction:hover {
+    background-color: #fb1e72;
+    color: #000000;
+}
+
+/* Character name class styles */
+
+.character1 {
+    color: rgb(255, 3, 75);
+}
+.character2 {
+    color: blue;
+}
+.character3 {
+    color: green;
+}
+.character4 {
+    color: purple;
+}
+
+/*Speech colour */
+
+.speech {
+    color: #415a5d;
+}

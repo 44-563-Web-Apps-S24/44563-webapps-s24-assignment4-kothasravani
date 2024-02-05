@@ -3,4 +3,4 @@
 A practice assignment for HTML with CSS  
 
  **Hosted at:**  
-<https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment4-kothasravani/settings/pages>
+ <https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment4-kothasravani/settings/pages>

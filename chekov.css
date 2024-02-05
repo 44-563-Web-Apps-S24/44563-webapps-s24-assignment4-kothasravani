@@ -29,7 +29,6 @@
 }
 
 /* Character name class styles */
-
 .character1 {
     color: rgb(255, 3, 75);
 }
@@ -44,7 +43,6 @@
 }
 
 /*Speech colour */
-
 .speech {
     color: #415a5d;
 }
@@ -74,6 +72,16 @@ tbody tr:nth-child(even) {
     background-color: #f9f9f9;
 }
 
+/* added color to hyperlink */
 .link-container {
     color: rgb(255, 0, 68);
+}
+
+/* Character name hover styles */
+.character1:hover,
+.character2:hover,
+.character3:hover,
+.character4:hover {
+    box-shadow: 3px 3px 10px #4f5858; /* Shadow with color and blur */
+    border: 1px solid #ffcc00; /* border color */
 }

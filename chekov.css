@@ -85,3 +85,38 @@ tbody tr:nth-child(even) {
     box-shadow: 3px 3px 10px #4f5858; /* Shadow with color and blur */
     border: 1px solid #ffcc00; /* border color */
 }
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bottom-navbar {
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-navbar a {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.bottom-navbar i {
+    font-size: 24px;
+    margin-bottom: 80px;
+}
+
+.bottom-navbar a:hover {
+    color: white; /* Change the color on hover as per your design */
+}
+

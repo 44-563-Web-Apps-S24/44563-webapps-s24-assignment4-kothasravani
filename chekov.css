@@ -84,6 +84,8 @@ tbody tr:nth-child(even) {
 .character4:hover {
     box-shadow: 3px 3px 10px #4f5858; /* Shadow with color and blur */
     border: 1px solid #ffcc00; /* border color */
+    text-shadow: #dbff33;
+    filter: blur(4px);
 }
 
 .bottom-navbar {
